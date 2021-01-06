@@ -1,0 +1,217 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Oswald", serif;
+    background: white;
+}
+
+.navbar{
+    width: 100%;
+}
+.navbar ul {
+    
+    list-style-type: none;
+    margin-right: 100px;
+  }
+ 
+  .navbar li{
+      float: right;
+      margin-right: 25px;
+      font-size: 18px;
+  }
+
+  h1{
+    color: rgb(18, 7, 48)
+  }
+
+  p{
+      color: rgb(65, 60, 60);
+  }
+  
+
+  .intro{
+      width: 100%;
+      padding: 30px;
+      
+  }
+
+  .left{
+      width: 40%;
+      float: left;
+      margin-top: 50px;
+      margin-left: 100px;
+  }
+
+  .right{
+      width: 45%;
+      margin-top: 80px;
+      float: left;
+  }
+
+  .hello{
+    font-size: 50px;
+    font-weight: 900;
+  }
+
+  .name{
+    color: #F46060 ;
+}
+
+.image{
+    
+        width: 500px;
+        
+}
+
+.btn{
+    width: 150px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    padding: 10px 25px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-image: linear-gradient(to right, #eb3941, #f15e64, #e14e53, #e2373f);
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+}
+
+.about-left{
+    float: right;
+    margin-top: 40px;
+    margin-right: 180px;
+}
+
+.about-right{
+    margin-left: 100px;
+}
+
+.project{
+    width: 100%;
+    height: 600px;
+    margin-top: 100px;
+    background: whitesmoke;
+
+}
+
+.title{
+    width: 100%;
+    text-align: center;
+    padding-top: 100px;
+}
+
+
+.container{
+    margin-left: 100px;
+}
+
+.card{
+    width: 380px;
+    color: #FFFFFF;
+    margin-right: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.card img{
+    width: 350px;
+    padding: 10px;
+}
+
+.card h2{
+    margin-left: 20px;
+    color: rgb(18, 7, 48); 
+}
+
+.card p{
+    margin-left: 20px;
+    padding-bottom: 15px;
+}
+
+.card1{
+    float: left;
+}
+
+.card2{
+    float: left;
+}
+.card3{
+    float: left;
+}
+
+.blog{
+    width: 100%;
+    height: 700px;
+    background: whitesmoke;
+}
+
+.blog img{
+    height: 250px;
+}
+.title2{
+    margin-top: 100px;
+}
+
+
+.footer{
+    width: 100%;
+    height: 200px;
+    margin-top: 200px;
+  
+}
+
+.contact{
+    background-image: url("../image/contact.png"); 
+    width: 70%;
+    margin: 0 auto;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 230px;
+    margin-top: 100px;
+}
+
+.text{
+    font-size: 25px;
+    padding: 40px 0px 0px 50px;
+    float: left;
+    color: white;
+    
+}
+
+.text h1{
+    color: white;
+    margin-left: 40px;
+}
+
+.footer-right{
+    float: right;
+    padding: 70px 50px 30px 0px;
+}
+
+.footer-right button{
+    height: 60px;
+    border-radius: 10px;
+}
+
+.social{
+    width: 100%;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.social p{
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(65, 60, 60);
+}
+
+.social h1{
+    color: rgb(18, 7, 48)
+}
+
+.icons img{
+    width: 40px;
+    margin-right: 10px;
+    margin-bottom: 100px;
+}
