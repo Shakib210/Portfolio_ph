@@ -174,7 +174,7 @@ body{
 
 .text{
     font-size: 25px;
-    padding: 40px 0px 0px 50px;
+    padding: 50px 0px 0px 50px;
     float: left;
     color: white;
     
@@ -208,7 +208,7 @@ body{
 }
 
 .social h1{
-    color: rgb(18, 7, 48)
+    color: #363958;
 }
 
 .icons img{
