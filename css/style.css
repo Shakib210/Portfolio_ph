@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    font-family: "Oswald", serif;
+    font-family: 'Roboto', sans-serif;;
     background: white;
 }
 
@@ -21,11 +21,12 @@ body{
   }
 
   h1{
-    color: rgb(18, 7, 48)
+    color: #363958;
   }
 
   p{
       color: rgb(65, 60, 60);
+      font-size: 16px;
   }
   
 
@@ -50,7 +51,7 @@ body{
 
   .hello{
     font-size: 50px;
-    font-weight: 900;
+    font-weight: 700;
   }
 
   .name{
